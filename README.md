@@ -1,6 +1,6 @@
 # FRANS JESKY
 
-Hi there, my name is <a href="https://jesky.dev" target="_blank">Jesky</a> and i'm a Creative Developer &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+Hi there, my name is <a href="https://jesky.dev" target="_blank">Jesky</a> and i'm a Frontend Developer &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 <br/>
 I blend artwork with cutting-edge technology, designing immersive visual and functional user interface and experiences.
 
