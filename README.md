@@ -1,8 +1,8 @@
 # FRANS JESKY
 
-Hi there, my name is <a href="https://jesky.dev" target="_blank">Jesky</a> and i'm a Frontend Developer &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+Hi there, my name is <a href="https://jesky.dev" target="_blank">Jesky</a> and i'm a Software Engineer &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 <br/>
-I blend artwork with cutting-edge technology, designing immersive visual and functional user interface and experiences.
+I specialized in Frontend Development. I blend artwork with cutting-edge technology, designing immersive visual and functional user interface and experiences.
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://jesky.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fransjesky)
@@ -82,11 +82,11 @@ I've been working with [React](https://reactjs.org/), [React Native](https://rea
 
 **A little piece of myself:**
 
-<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Currently working at [Xcidic](https://xcidic.com/) as a frontend dev
+<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Currently working at [Xcidic](https://xcidic.com/) as a Head of Information Technology
 <br/>
 <img src="https://media4.giphy.com/media/55cVTSP1QhCgcrKVVW/giphy.gif?cid=790b7611a33cffb938a64cb87a4e26f8675031e0597f7382&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I work on my personal project in my free time
 <br/>
-<img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently learning [Three.js by Bruno Simon](https://threejs-journey.com)
+<img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently learning [CS50 - Computer Science by Harvard](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?webview=false&campaign=CS50%27s+Introduction+to+Computer+Science&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
 <br/>
 <img src="https://media0.giphy.com/media/cNROH16WmAR5QAYQCY/giphy.gif?cid=790b76118d083ecca71fc84b8f6df0b39e46edfc667bbafe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Fluent in English, Japanese, and Indonesian
 <br/>
@@ -96,7 +96,7 @@ I've been working with [React](https://reactjs.org/), [React Native](https://rea
 
 ### Quick Biography
 
-In my early senior high school year, i learned from my friend how to 'write' OOP language in C++ without any knowledge of C++. Since then, programming has become my passion. I went to [京都コンピュータ学院 (Kyoto Computer Gakuin)](https://www.kcg.edu/) university in Japan to study IT. When i returned from Japan, i joined two coding Bootcamps called [Hacktiv8](https://www.hacktiv8.com/) and [Impact Byte](https://impactbyte.com/id/home). In September 2020, i joined [Xcidic](https://xcidic.com/) and started working full time as a frontend developer.
+In my early senior high school year, i learned from my friend how to 'write' OOP in C++ without any knowledge of C++. Since then, programming has become my passion. I went to [京都コンピュータ学院 (Kyoto Computer Gakuin)](https://www.kcg.edu/) college in Japan to study IT. When i returned from Japan, i joined two coding Bootcamps called [Hacktiv8](https://www.hacktiv8.com/) and [Impact Byte](https://impactbyte.com/id/home). In September 2020, i joined [Xcidic](https://xcidic.com/) and started working full time as a frontend developer.
 
 <br/>
 
