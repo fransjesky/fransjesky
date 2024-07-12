@@ -82,9 +82,9 @@ I've been working with [React](https://reactjs.org/), [React Native](https://rea
 
 **A little piece of myself:**
 
-<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Currently working at [Xcidic](https://xcidic.com/) as a Head of Information Technology
+<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Currently working at [Wasimil](https://www.wasimil.com/) as a Full-stack Engineer
 <br/>
-<img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently learning [CS50 - Computer Science by Harvard](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?webview=false&campaign=CS50%27s+Introduction+to+Computer+Science&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fharvardx)
+<img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently learning [Hasura - GraphQL](https://hasura.io/learn/)
 <br/>
 <img src="https://media4.giphy.com/media/55cVTSP1QhCgcrKVVW/giphy.gif?cid=790b7611a33cffb938a64cb87a4e26f8675031e0597f7382&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I work on my personal project in my free time
 <br/>
@@ -92,7 +92,7 @@ I've been working with [React](https://reactjs.org/), [React Native](https://rea
 <br/>
 <img src="https://media0.giphy.com/media/mYibI3sb7TdCg8DEko/giphy.gif?cid=ecf05e47jxf1mpmqptoyd3ja20ohsbv9ne6flgt4zhbkhbkm&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; [Scrooge McDuck](https://en.wikipedia.org/wiki/Scrooge_McDuck) is my favorite character of all time
 <br/>
-<img src="https://media0.giphy.com/media/r4xuzuHd0LDaqheDUW/giphy.gif?cid=ecf05e4712t82r6zjz56trapo40kzpj20tb0q71h7rtr2497&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Ask me anything at jesky.yeremi@gmail.com
+<img src="https://media0.giphy.com/media/r4xuzuHd0LDaqheDUW/giphy.gif?cid=ecf05e4712t82r6zjz56trapo40kzpj20tb0q71h7rtr2497&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Ask me anything at mail@jesky.dev
 
 ### Quick Biography
 
