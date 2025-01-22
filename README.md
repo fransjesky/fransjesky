@@ -21,7 +21,7 @@ I'm glad to see you here, and thank you for your visit!
 <br/>
 Here, you can get access to all of my open source projects, works, and lessons's repositories.
 
-Mostly, i have been programming using the [Typescript](https://www.typescriptlang.org/) language.
+Mostly, i have been programming using the [Typescript](https://www.typescriptlang.org/) language and recently i'm starting to programming in [Python](https://www.python.org/) as well.
 <br/>
 I've been working with [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [Next](https://nextjs.org/), [Threejs](https://threejs.org/), [Material UI](https://mui.com/), [Nodejs](https://nodejs.org/en/), [Express](https://expressjs.com/), [PostgreSQL](https://www.postgresql.org/), [Amazon Web Services](https://aws.amazon.com/), and some other tech stacks. I'm also interested in learning about game development tools like [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US).
 
@@ -82,7 +82,7 @@ I've been working with [React](https://reactjs.org/), [React Native](https://rea
 
 **A little piece of myself:**
 
-<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently on Career Break for an indefinite periode of time due to health issue
+<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently on Career Break due to health issue
 <br/>
 <img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently learning Python on [Harvard at edX](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 <br/>
