@@ -82,9 +82,9 @@ I've been working with [React](https://reactjs.org/), [React Native](https://rea
 
 **A little piece of myself:**
 
-<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Currently working at [Wasimil](https://www.wasimil.com/) as a Full-stack Engineer
+<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently on Career Break for an indefinite periode of time due to health issue
 <br/>
-<img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently learning [Hasura - GraphQL](https://hasura.io/learn/)
+<img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I'm currently learning Python on [Harvard at edX](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 <br/>
 <img src="https://media4.giphy.com/media/55cVTSP1QhCgcrKVVW/giphy.gif?cid=790b7611a33cffb938a64cb87a4e26f8675031e0597f7382&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I work on my personal project in my free time
 <br/>
