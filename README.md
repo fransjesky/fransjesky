@@ -4,14 +4,21 @@ Hi there, my name is <a href="https://jesky.dev" target="_blank">Jesky</a> and i
 <br/>
 I specialized in Frontend Development. I blend artwork with cutting-edge technology, designing immersive visual and functional user interface and experiences.
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://jesky.dev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fransjesky)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/fransjesky)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/fransjesky)
-[![Gmail Badge](https://img.shields.io/badge/-fransjesky-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jesky.yeremi@gmail.com)](mailto:jesky.yeremi@gmail.com)
-[![last Updated](https://img.shields.io/github/last-commit/fransjesky/fransjesky/main?label=last%20updated&style=flat)](https://github.com/fransjesky/fransjesky/commits)
-[![codewars](https://www.codewars.com/users/Frans%20Jesky/badges/micro)](https://www.codewars.com/users/Frans%20Jesky)
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=fransjesky&countColor=%237B1E7A)
+
+<div align="center">
+
+  <!-- Badges -->
+  [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://jesky.dev)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fransjesky)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/fransjesky)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/fransjesky)
+  [![Gmail Badge](https://img.shields.io/badge/-fransjesky-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesky.yeremi@gmail.com)
+  [![last Updated](https://img.shields.io/github/last-commit/fransjesky/fransjesky/main?label=last%20updated&style=flat)](https://github.com/fransjesky/fransjesky/commits)
+  [![codewars](https://www.codewars.com/users/Frans%20Jesky/badges/micro)](https://www.codewars.com/users/Frans%20Jesky)
+  <br/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=fransjesky&countColor=%237B1E7A" alt="visitor badge"/>
+
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fransjesky&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
