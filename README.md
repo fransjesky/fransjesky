@@ -11,7 +11,6 @@ I specialized in Frontend Development. I blend artwork with cutting-edge technol
 [![Gmail Badge](https://img.shields.io/badge/-fransjesky-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jesky.yeremi@gmail.com)](mailto:jesky.yeremi@gmail.com)
 [![last Updated](https://img.shields.io/github/last-commit/fransjesky/fransjesky/main?label=last%20updated&style=flat)](https://github.com/fransjesky/fransjesky/commits)
 [![codewars](https://www.codewars.com/users/Frans%20Jesky/badges/micro)](https://www.codewars.com/users/Frans%20Jesky)
-
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=fransjesky&countColor=%237B1E7A)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fransjesky&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
