@@ -10,6 +10,7 @@ I specialized in Frontend Development. I blend artwork with cutting-edge technol
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/fransjesky)
 [![Gmail Badge](https://img.shields.io/badge/-fransjesky-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jesky.yeremi@gmail.com)](mailto:jesky.yeremi@gmail.com)
 ![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ffransjesky%2Ffransjesky.json&style=flat&label=visitors&color=orange)
+[![visitors](https://img.shields.io/endpoint?url=https://hits.dwyl.com/fransjesky/fransjesky.svg?style=flat&label=visitors&color=orange)](http://hits.dwyl.com/fransjesky/fransjesky)
 [![last Updated](https://img.shields.io/github/last-commit/fransjesky/fransjesky/main?label=last%20updated&style=flat)](https://github.com/fransjesky/fransjesky/commits)
 [![codewars](https://www.codewars.com/users/Frans%20Jesky/badges/micro)](https://www.codewars.com/users/Frans%20Jesky)
 
