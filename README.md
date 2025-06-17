@@ -20,7 +20,7 @@ I specialized in Frontend Development. I blend artwork with cutting-edge technol
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fransjesky&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fransjesky)](https://github.com/fransjesky/fransjesky)
 
 ### Welcome to my world!
 
