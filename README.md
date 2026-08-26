@@ -40,16 +40,3 @@ I mostly code in [Typescript](https://www.typescriptlang.org/) and [Python](http
 ### Quick Biography
 
 In my early senior high school year, i learned from my friend how to 'write' OOP in C++ without any knowledge of C++. Since then, programming has become my passion. I went to [京都コンピュータ学院 (Kyoto Computer Gakuin)](https://www.kcg.edu/) college in Japan to study IT. When i returned from Japan, i joined two coding Bootcamps called [Hacktiv8](https://www.hacktiv8.com/) and [Impact Byte](https://impactbyte.com/id/home). In September 2020, i joined [Xcidic](https://xcidic.com/) and started working full time as a frontend developer.
-
-<br/>
-
-📈 **Jesky's Github Stats:**
-
-<div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransjesky&theme=react" height=160px alt="Jesky's Programming Languages"/>
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransjesky&show_icons=true&theme=react" height=160px alt="Jesky's Github Stats">
-</div>
-
-<br/>
-<small>feel free to use my readme as a template for your own github.</small>
