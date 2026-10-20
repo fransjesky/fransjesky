@@ -1,6 +1,6 @@
 # Hey, I'm <a href="https://jesky.dev" target="_blank">Jesky</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
 
-I'm a frontend developer who love to blend artwork with cutting-edge technology, designing immersive visual and functional user interface and experiences.
+I'm a software engineer who blends art with cutting-edge technology, values craftsmanship and attention to detail, and believes in the beauty of writing every line of code by hand.
 
 <div align="center">
 
