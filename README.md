@@ -21,7 +21,7 @@ I'm a software engineer who blends art with cutting-edge technology, values craf
 
 Thanks for checking out my GitHub!
 <br/>
-You’ll find open source projects, dev experiments, and code from lessons I’ve worked through.
+You'll find personal projects, open source projects, research, experiments, and code from lessons I've worked through.
 
 I mostly code in [Typescript](https://www.typescriptlang.org/) and [Python](https://www.python.org/).
 <br/>
@@ -30,9 +30,10 @@ I mostly code in [Typescript](https://www.typescriptlang.org/) and [Python](http
 
 **🔭 Tools of Trade**
 
-- I work primarily on Arch Linux
-- Neovim is my go-to editor
-- React and Three.js enthusiast
+- Computer science foundations
+- I use Arch, btw.
+- Neovim as the daily driver
+- AI/ML and cybersecurity enthusiast
 - Passionate about open source
 - Fluent in Indonesian, English, and Japanese
 - Feel free to reach out at mail@jesky.dev
