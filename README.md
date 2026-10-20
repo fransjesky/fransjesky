@@ -36,7 +36,3 @@ I mostly code in [Typescript](https://www.typescriptlang.org/) and [Python](http
 - Passionate about open source
 - Fluent in Indonesian, English, and Japanese
 - Feel free to reach out at mail@jesky.dev
-
-### Quick Biography
-
-In my early senior high school year, i learned from my friend how to 'write' OOP in C++ without any knowledge of C++. Since then, programming has become my passion. I went to [京都コンピュータ学院 (Kyoto Computer Gakuin)](https://www.kcg.edu/) college in Japan to study IT. When i returned from Japan, i joined two coding Bootcamps called [Hacktiv8](https://www.hacktiv8.com/) and [Impact Byte](https://impactbyte.com/id/home). In September 2020, i joined [Xcidic](https://xcidic.com/) and started working full time as a frontend developer.
